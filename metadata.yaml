@@ -1,4 +1,8 @@
 _repo: Den-Gamles-Minnen-Bilder-fran-finska-skogsbygden_49308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berndtson, Fredrik
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '31170'
     url: http://www.gutenberg.org/2009/agents/31170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49308#Den-Gamles-Minnen-Bilder-fran-finska-skogsbygden
 gutenberg_issued: '2015-06-28'
 gutenberg_type: Text
 identifiers:
